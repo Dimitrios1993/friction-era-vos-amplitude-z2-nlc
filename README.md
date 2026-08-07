@@ -1,3 +1,6 @@
+<img width="833" height="774" alt="image" src="https://github.com/user-attachments/assets/326e7db1-6b2f-44b3-b01d-1a411d970505" />
+
+
 ## Title
 The friction-era VOS amplitude of a $\mathbb{Z}_2$ string network from nematic disclination data
 

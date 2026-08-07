@@ -9,7 +9,7 @@ In the overdamped limit of the velocity-dependent one-scale (VOS) model the coar
 
 ## Citing the paper 
 If you use any of the above codes or the figures in a published work please cite the following paper:
-<br>*The friction-era VOS amplitude of a $\mathbb{Z}_2$ string network from nematic disclination data*
+<br>*The friction-era VOS amplitude of a $Z_2$ string network from nematic disclination data*
 <br>Dimitrios Efstratiou, Evangelos Achilleas Paraskevas, Leandros Perivolaropoulos 
 
 
